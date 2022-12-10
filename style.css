@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    border-box: flex;
+}
+body{
+    background-color: antiquewhite;
+    ;
+    font-family: sans-serif;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+header{
+    color: red;
+    margin: 5px;
+    margin-top: 0,5rem;
+    margin-left: 5px;
+}
+siad{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+}
